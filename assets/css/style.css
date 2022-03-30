@@ -183,7 +183,7 @@ nav{
     margin: 0 76px 0 200px;
 }
 .section1_st{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 17px;
     text-transform: uppercase;
@@ -281,7 +281,7 @@ nav{
 }
 .section2_l{
     display: inline-block;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 17px;
     text-transform: uppercase;
@@ -337,7 +337,7 @@ nav{
 }
 .section3_title{
     margin: 40px 0 40px 0;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 64px;
     line-height: 76px;
     text-transform: uppercase;
@@ -390,7 +390,7 @@ nav{
 }
 .section3_l{
     display: inline-block;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 14px;
     line-height: 17px;
     text-transform: uppercase;
@@ -429,7 +429,7 @@ nav{
     margin: 75px 0 150px 600px;
 }
 .section4_title{
-    font-weight: 600;
+    font-weight: 500;
     font-size: 48px;
     line-height: 57px;
     color: #161616;
